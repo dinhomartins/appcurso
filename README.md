@@ -1,1 +1,1 @@
-# appcurso
+# curso
